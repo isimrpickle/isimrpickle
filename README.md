@@ -1,14 +1,14 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Isidoros 👋
 
-🎓 **Computer Science Undergraduate** | 💻 **Aspiring Software Engineer**
+🎓 **Department of Informatics and telecommunications, NKUOA** | 💻 **Aspiring Software Engineer**
 
-I am currently pursuing my degree in Computer Science, and I have hands-on experience in system programming, network communication, and AI. I am passionate about working on challenging projects that push the boundaries of software development. Below, you can find some of my projects and contributions, showcasing my skills across various domains like low-level systems, artificial intelligence, and web development.
+I am currently pursuing my degree in Computer Science, and I have hands-on experience in system programming, network communication, and AI. 
 
 ## 🛠 Skills
 
 - **Languages**: C, Python, C#, SQL, Bash
 - **Technologies**: Linux, XV6, Unix system programming, multi-threading, shared memory, FIFOs, network programming, signals
-- **Web Development**: REST APIs, ASP.NET Core, Flask
+- **Web Development**:  ASP.NET Core
 - **AI/ML**: Projects from Berkeley AI course
 - **Databases**: SQL (MySQL, PostgreSQL)
 
@@ -27,25 +27,20 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 - **Key Skills**: Concurrency, Networking, I/O, IPC
 
 ### [Berkeley AI Projects](#)
-*Completed three foundational projects from the UC Berkeley AI course. The projects focus on fundamental AI concepts like search algorithms, decision-making, and reinforcement learning.*
+*Completed three foundational projects from the UC Berkeley AI course. The projects focus on fundamental AI concepts like search algorithms, and decision-making optimization. *
 
 - **Technologies**: Python
 - **Key Skills**: AI algorithms, Search algorithms, Problem-solving
 
 ### [Web API in C#](#)
-*Built a fully functional REST API in C# using ASP.NET Core, managing data persistence with Entity Framework and integrating SQL.*
+*Built a fully functional webAPI in C#*
 
 - **Technologies**: C#, ASP.NET Core, SQL
-- **Key Skills**: REST, Web API, SQL
+- **Key Skills**:  Web API, SQL
 
 ## 🌱 Currently Learning
 - Advanced AI concepts like deep learning and neural networks.
 - Improving my skills in web development (frontend frameworks like React).
   
-## 📫 How to reach me
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn URL]
-- **GitHub**: [GitHub Profile URL]
 
-## ⚡ Fun Fact
-I'm a big fan of exploring new operating system kernels and love optimizing low-level system processes!
+
