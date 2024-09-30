@@ -40,7 +40,7 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 
 
 ### [C++ ASCII game](#)
-#Built a simple ascii game in C++ demostrating the properties of object oriented programming.
+*Built a simple ascii game in C++ demostrating the properties of object oriented programming.
 
 ## 🌱 Currently Learning
 - Advanced AI concepts like deep learning and neural networks.
