@@ -30,7 +30,7 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 *Completed two foundational projects from the UC Berkeley AI course. The projects focus on fundamental AI concepts like search algorithms, and decision-making optimization. *
 
 - **Technologies**: Python
-- **Key Skills**: AI algorithms, Search algorithms, Problem-solving
+- **Key Skills**: AI algorithms, Search algorithms
 
 ### [Web API in C#](#)
 *Built a fully functional web API in C#*
@@ -42,9 +42,10 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 ### [C++ ASCII game](#)
 *Built a simple ascii game in C++ demostrating the properties of object oriented programming.
 
-## 🌱 Currently Learning
-- Advanced AI concepts like deep learning and neural networks.
-- Improving my skills in web development (frontend frameworks like React).
+- **Technologies**: C++
+- **Key skills**: Object-Oriented-prorgamming
+
+
   
 
 
