@@ -1,4 +1,4 @@
-# Hi, I'm Isidoros 👋
+# Hi, I'm Isidoros 
 
 🎓 **Department of Informatics and telecommunications, NKUOA** | 💻 **Aspiring Software Engineer**
 
