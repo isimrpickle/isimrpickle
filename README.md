@@ -1,6 +1,6 @@
 # Hi, I'm Isidoros 
 
-🎓 **Department of Informatics and telecommunications, NKUOA** | 💻 **Aspiring Software Engineer**
+🎓 **Department of Informatics and telecommunications, NKUA** | 💻 **Aspiring Software Engineer**
 
 I am currently pursuing my degree in Computer Science, and I have hands-on experience in system programming, network communication, and AI. 
 
