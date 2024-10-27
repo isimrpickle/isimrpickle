@@ -27,7 +27,7 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 - **Key Skills**: Concurrency, Networking, I/O, IPC
 
 ### [Berkeley AI Projects](#)
-*Completed two foundational projects from the UC Berkeley AI course. The projects focus on fundamental AI concepts like search algorithms, and decision-making optimization. *
+Completed two foundational projects from the UC Berkeley AI course. The projects focus on fundamental AI concepts like search algorithms, and decision-making optimization. 
 
 - **Technologies**: Python
 - **Key Skills**: AI algorithms, Search algorithms
@@ -40,7 +40,7 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 
 
 ### [C++ ASCII game](#)
-*Built a simple ascii game in C++ demostrating the properties of object oriented programming.
+Built a simple ascii game in C++ demostrating the properties of object oriented programming. 
 
 - **Technologies**: C++
 - **Key skills**: Object-Oriented-prorgamming
