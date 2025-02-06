@@ -20,7 +20,7 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 - **Technologies**: C, XV6, Operating Systems
 - **Key Skills**: System calls, scheduling, process management, kernel development
 
-### [I/O Communication and Network Programming in C](#)
+### [I/O Communication and Network Programming in C](https://github.com/isimrpickle/system_programming_1)
 *Designed a robust system for inter-process communication using shared memory/ FIFOs/ sockets, and multi-threading.*
 
 - **Technologies**: C, Linux, Sockets, Threads, Shared Memory
