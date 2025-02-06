@@ -46,7 +46,7 @@ Built a simple ascii game in C++ demostrating the properties of object oriented 
 - **Key skills**: Object-Oriented-prorgamming
 
 ### [Assembly](https://github.com/isimrpickle/Optimized_Matrix_Multiplication/tree/main)
-In the context of Computer architecture I built 2 assembly projects, the first one was about reading some values form an array while also calculating some statistics about the array and the second one was about matrix multiplication. Both projects even though simple in code, were written to be fully optimized considering different CPU and cache architectures.
+- In the context of Computer architecture I built 2 assembly projects, the first one was about reading some values form an array while also calculating some statistics about the array and the second one was about matrix multiplication. Both projects even though simple in code, were written to be fully optimized considering different CPU and cache architectures.
 
 ### [parallelization focused projects](https://github.com/isimrpickle/Parallel_Systems_Assignment1)
 
