@@ -50,7 +50,7 @@ In the context of Computer architecture I built 2 assembly projects, the first o
 
 ### [parallelization focused projects](https://github.com/isimrpickle/Parallel_Systems_Assignment1)
 
-Implemented some standard parallelization problems in various APIs such as openMP, MPI and Pthreads showcasing
+- Implemented some standard parallelization problems in various APIs such as openMP, MPI and Pthreads showcasing
 the differences between those APIs and its use cases.
 
 
