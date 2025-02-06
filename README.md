@@ -14,7 +14,7 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 
 ## 🔭 Projects
 
-### [Priority-based Scheduler in XV6](#https://github.com/isimrpickle/OS_assignment_2)
+### [Priority-based Scheduler in XV6](https://github.com/isimrpickle/OS_assignment_2)
 *Implemented a new priority-based scheduler for the XV6 operating system, making the necessary changes in the kernel to support priority levels for processes.*
 
 - **Technologies**: C, XV6, Operating Systems
