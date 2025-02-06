@@ -26,20 +26,20 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 - **Technologies**: C, Linux, Sockets, Threads, Shared Memory
 - **Key Skills**: Concurrency, Networking, I/O, IPC
 
-### [Berkeley AI Projects](#)
-Completed two foundational projects from the UC Berkeley AI course. The projects focus on fundamental AI concepts like search algorithms, and decision-making optimization. 
+### [Berkeley AI Project](https://github.com/isimrpickle/Berkeley-pac-man-project-1)
+Completed a foundational project from the UC Berkeley AI course. The projects focus on fundamental AI concepts like search algorithms, and decision-making optimization. 
 
 - **Technologies**: Python
 - **Key Skills**: AI algorithms, Search algorithms
 
-### [Web API in C#](#)
+### [Web API in C#](https://github.com/isimrpickle/WebApi)
 *Built a fully functional web API in C#*
 
 - **Technologies**: C#, ASP.NET Core, SQL
 - **Key Skills**:  Web API, SQL
 
 
-### [C++ ASCII game](#)
+### [C++ ASCII game](https://github.com/isimrpickle/WvsV)
 Built a simple ascii game in C++ demostrating the properties of object oriented programming. 
 
 - **Technologies**: C++
@@ -48,7 +48,7 @@ Built a simple ascii game in C++ demostrating the properties of object oriented 
 ### [Assembly](#)
 In the context of Computer architecture I built 2 assembly projects, the first one was about reading some values form an array while also calculating some statistics about the array and the second one was about matrix multiplication. Both projects even though simple in code, were written to be fully optimized considering different CPU and cache architectures.
 
-### [parallelization focused projects](#)
+### [parallelization focused projects](https://github.com/isimrpickle/Parallel_Systems_Assignment1)
 
 Implemented some standard parallelization problems in various APIs such as openMP, MPI and Pthreads showcasing the speedup increase.
 
