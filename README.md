@@ -45,10 +45,10 @@ Built a simple ascii game in C++ demostrating the properties of object oriented 
 - **Technologies**: C++
 - **Key skills**: Object-Oriented-prorgamming
 
-### [Assembly] (#)
+### [Assembly](#)
 In the context of Computer architecture I built 2 assembly projects, the first one was about reading some values form an array while also calculating some statistics about the array and the second one was about matrix multiplication. Both projects even though simple in code, were written to be fully optimized considering different CPU and cache architectures.
 
-###[parallelization focused projects] (#)
+###[parallelization focused projects](#)
 
 Implemented some standard parallelization problems in various APIs such as openMP, MPI and Pthreads showcasing the speedup increase.
 
