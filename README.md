@@ -45,10 +45,10 @@ Built a simple ascii game in C++ demostrating the properties of object oriented 
 - **Technologies**: C++
 - **Key skills**: Object-Oriented-prorgamming
 
-### [Assembly](https://github.com/isimrpickle/Optimized_Matrix_Multiplication/tree/main)
+### [Assembly Projects](https://github.com/isimrpickle/Optimized_Matrix_Multiplication/tree/main)
 - In the context of Computer architecture I built 2 assembly projects, the first one was about reading some values form an array while also calculating some statistics about the array's values and the second one was about cache-friendly matrix multiplication. Both projects even though simple in code, were written to be fully optimized considering different CPU and cache architectures.
 
-### [parallelization focused projects](https://github.com/isimrpickle/Parallel_Systems_Assignment1)
+### [parallelization Focused Projects](https://github.com/isimrpickle/Parallel_Systems_Assignment1)
 
 - Implemented some standard parallelization problems in various APIs such as openMP, MPI and Pthreads showcasing
 the differences between those APIs as also its use cases.
