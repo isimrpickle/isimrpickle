@@ -7,9 +7,9 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 ## 🛠 Skills
 
 - **Languages**: C, Python, C#, C++, SQL, Bash, Assembly
-- **Technologies**: Linux, XV6, Unix system programming, multi-threading, shared memory, FIFOs, network programming, signals
+- **Technologies**: Linux, XV6, Unix System Srogramming, Multi-Threading, Shared Memory, FIFOs, Network Programming, Signals
 - **Web Development**:  ASP.NET Core
-- **AI/ML**: Projects from Berkeley AI course
+- **AI**: Project from Berkeley AI course
 - **Databases**: SQL (MySQL)
 
 ## 🔭 Projects
@@ -35,7 +35,7 @@ Completed a foundational project from the UC Berkeley AI course. The projects fo
 ### [Web API in C#](https://github.com/isimrpickle/WebApi)
 *Built a fully functional web API in C#*
 
-- **Technologies**: C#, ASP.NET Core, SQL
+- **Technologies**: C#, .NET Core, SQL
 - **Key Skills**:  Web API, SQL
 
 
@@ -46,12 +46,12 @@ Built a simple ascii game in C++ demostrating the properties of object oriented 
 - **Key skills**: Object-Oriented-prorgamming
 
 ### [Assembly](https://github.com/isimrpickle/Optimized_Matrix_Multiplication/tree/main)
-- In the context of Computer architecture I built 2 assembly projects, the first one was about reading some values form an array while also calculating some statistics about the array and the second one was about matrix multiplication. Both projects even though simple in code, were written to be fully optimized considering different CPU and cache architectures.
+- In the context of Computer architecture I built 2 assembly projects, the first one was about reading some values form an array while also calculating some statistics about the array's values and the second one was about cache-friendly matrix multiplication. Both projects even though simple in code, were written to be fully optimized considering different CPU and cache architectures.
 
 ### [parallelization focused projects](https://github.com/isimrpickle/Parallel_Systems_Assignment1)
 
 - Implemented some standard parallelization problems in various APIs such as openMP, MPI and Pthreads showcasing
-the differences between those APIs and its use cases.
+the differences between those APIs as also its use cases.
 
 
   
