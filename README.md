@@ -17,8 +17,8 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 ### [ANNS algorithms that were based on a paper of ACM's Web Conference in 2023](https://github.com/KKalamari/Project)
 Implemented two ANNS algorithms, FilteredVamana and StitchedVamana, and conducted thorough benchmarking to evaluate their performance and accuracy
 
-- **Technologies**: C++,Unit Testing, Software Development
-- **Key Skills**: Concurrency, scripting, organizing a multi-file project 
+- **Technologies**: C++, Unit Testing, Software Development
+- **Key Skills**: Concurrency, Scripting, Organizing a multi-file project 
 
 ### [Priority-based Scheduler in XV6](https://github.com/isimrpickle/OS_assignment_2)
 *Implemented a new priority-based scheduler for the XV6 operating system, making the necessary changes in the kernel to support priority levels for processes.*
