@@ -8,7 +8,6 @@ I am currently pursuing my degree in Computer Science, and I have hands-on exper
 
 - **Languages**: C, Python, C#, C++, SQL, Bash, Assembly
 - **Technologies**: Linux, XV6, Unix System Srogramming, Multi-Threading, Shared Memory, FIFOs, Network Programming, Signals
-- **Web Development**:  ASP.NET Core
 - **AI**: Project from Berkeley AI course
 - **Databases**: SQL (MySQL)
 
