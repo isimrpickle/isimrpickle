@@ -2,7 +2,7 @@
 
 🎓 **Department of Informatics and telecommunications, NKUA** | 💻 **Aspiring Software Engineer**
 
-BSc in Informatics and Telecommunications from NKUA with hands-on experience in C/C++ through academic projects.Currently a Backend Developer at SCANlab, developing scalable backend applications using Python, FastAPI, and PostgreSQL.
+BSc in Informatics and Telecommunications from NKUA with hands-on experience in C/C++ through academic projects. Currently working as a Backend Developer at SCANlab, building backend services using Python, FastAPI, and PostgreSQL.
 ## 🛠 Skills
 
 - **Languages**: C, Python, C#, C++, SQL, Bash, Assembly
