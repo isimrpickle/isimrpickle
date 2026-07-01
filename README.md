@@ -2,8 +2,7 @@
 
 🎓 **Department of Informatics and telecommunications, NKUA** | 💻 **Aspiring Software Engineer**
 
-I am currently pursuing my degree in Computer Science, and I have hands-on experience in system programming, network communication, and AI. 
-
+BSc in Informatics and Telecommunications from NKUA with hands-on experience in C/C++ through academic projects.Currently a Backend Developer at SCANlab, developing scalable backend applications using Python, FastAPI, and PostgreSQL.
 ## 🛠 Skills
 
 - **Languages**: C, Python, C#, C++, SQL, Bash, Assembly
